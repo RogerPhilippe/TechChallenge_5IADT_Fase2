@@ -1,4 +1,4 @@
-# SmartDelivery V2
+# TechChallenge_5IADT_Fase2
 
 Projeto de faculdade com foco em otimização de rotas utilizando Algoritmos Genéticos.
 
